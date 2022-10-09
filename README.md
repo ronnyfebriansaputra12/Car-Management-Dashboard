@@ -25,6 +25,8 @@ Tabel data pada tugas kali ini berisi seperti gambar diatas, kemudian dari keemp
 
 relasi diatas megambarkan bagaimana sistem akan bekerja
 
+# Jangan Lupa Bikin Folder Uploads di dalam folder Public yaaa!!
+
 # BackEnd
 ## Setup Server
 ```
